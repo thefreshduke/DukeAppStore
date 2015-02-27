@@ -1,0 +1,43 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	font-size: 75px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-family: "Helvetica Neue";
+	font-size: 50px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.header {
+	background-color: #001A57;
+	border: solid 30px blue;
+	color: white;
+	font-family: "EB Garamond";
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+}
+
+.downloadButton {
+	/*border: solid 10px white;*/
+	color: blue;
+	font-size: 30px;
+	/*margin: 20px;*/
+	text-align: center;
+}
+
+.uploadButton {
+	/*border: solid 10px white;*/
+	color: blue;
+	/*margin: 20px;*/
+	text-align: center;
+}
