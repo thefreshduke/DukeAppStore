@@ -28,16 +28,12 @@ h2 {
 }
 
 .downloadButton {
-	/*border: solid 10px white;*/
 	color: blue;
 	font-size: 30px;
-	/*margin: 20px;*/
 	text-align: center;
 }
 
 .uploadButton {
-	/*border: solid 10px white;*/
 	color: blue;
-	/*margin: 20px;*/
 	text-align: center;
 }
