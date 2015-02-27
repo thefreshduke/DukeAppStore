@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: "EB Garamond";
+	font-size: 75px;
+	font-weight: bolder;
+}
+
+h2 {
+	font-family: "Helvetica Neue";
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+.header {
+	background-color: #001A57;
+	border: solid 40px blue;
+	color: white;
+	margin: 40px;
+	text-align: center;
+}
