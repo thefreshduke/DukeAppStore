@@ -3,25 +3,21 @@ body {
 }
 
 h1 {
-	color: white;
+	font-family: "EB Garamond";
 	font-size: 75px;
 	font-weight: bolder;
-	text-align: center;
 }
 
 h2 {
-	color: white;
 	font-family: "Helvetica Neue";
 	font-size: 40px;
 	font-weight: lighter;
-	text-align: center;
 }
 
 .header {
 	background-color: #001A57;
 	border: solid 40px blue;
 	color: white;
-	font-family: "EB Garamond";
 	margin: 40px;
 	text-align: center;
 }
@@ -31,25 +27,8 @@ h2 {
 	font-family: "Helvetica Neue";
 	font-size: 30px;
 	font-weight: lighter;
-	margin: 20px;
-	padding-bottom: 30px;
-	text-align: center;
-}
-
-.page {
-	background-color: #001A57;
-	border: solid 30px blue;
-	color: white;
-	font-family: "EB Garamond";
-	margin: 20px;
-	padding: 20px;
-	text-align: center;
 }
 
 .uploadButton {
-	color: blue;
-	margin: 20px;
 	padding-bottom: 30px;
-	/*padding-top: 30px;*/
-	text-align: center;
 }
